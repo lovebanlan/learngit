@@ -4,4 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes of files. and have some fun.
 Keep on learning.
 Creating a new branch "dev".
-Creating a new branch is queck and simple.
+Creating a new branch is queck . simple.
